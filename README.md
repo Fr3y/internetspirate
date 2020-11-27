@@ -25,5 +25,5 @@
 
 
 
-![Internetspirate github stats](https://github-readme-stats.vercel.app/api?username=Internetspirate&show_icons=true&theme=dark
+
 
