@@ -16,4 +16,4 @@
 
 
 
-[![GitHub iampawan](https://img.shields.io/github/followers/internetspirate?label=follow&style=social)](https://github.com/internetspirate)
+[![GitHub internetspirate](https://img.shields.io/github/followers/internetspirate?label=follow&style=social)](https://github.com/internetspirate)
