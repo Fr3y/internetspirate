@@ -18,3 +18,4 @@
 
 
 [![GitHub internetspirate](https://img.shields.io/github/followers/internetspirate?label=follow&style=social)](https://github.com/internetspirate)
+[![Twitter: imthepk](https://img.shields.io/twitter/follow/internetspirate?style=social)](https://twitter.com/internetspirate)
