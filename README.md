@@ -9,7 +9,7 @@
 - 📫 How to reach me:- [Telegram Channel](https://t.me/cybity)
 - 😄 Pronouns: He/His (Not an Bot)
 - ⚡  Fun fact:- I am still wearing Casio F-91W 
-- 🔓 working To Safe Your Privact At :- [cybity](https://github.com/cybity) 
+- 🔓 working Hard To Keep You At:- [cybity](https://github.com/cybity) 
 
 
 
