@@ -27,3 +27,8 @@
 
 
 ![Internetspirate github stats](https://github-readme-stats.vercel.app/api?username=Internetspirate&show_icons=true&theme=dark)
+
+<h2> This is Internetspirate, And I have an Messenger For you <br>
+ That Democracy Denied </h2>
+
+<h1> Thanks ❤️ For Stopping by </h1>
