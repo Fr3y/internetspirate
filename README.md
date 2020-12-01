@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on :- [Operating System Security](https://github.com/internetspirate/C-on-see)
-- 🌱 I’m currently learning :- <h4>Javascript</h4><h5>Pyhton(Adv)</h5><h6>Nord.js</h6>
+- 🌱 I’m currently learning 👇👇👇 <h4>Javascript</h4><h5>Pyhton(Adv)</h5><h6>Nord.js</h6>
 - 👯 I’m looking to collaborate on :- Somthing On My Limit's (Well Actually Sometimes, Lazyness Takes Over Me)
 - 🤔 I’m looking for help with :- Nord.js
 - 💬 Ask me about :- Python Programming And Anime xD
